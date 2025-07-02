@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\ordersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\ordersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\lakers_suck\\ordersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\ordersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\lakers_suck\\manufacturermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\manufacturermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\customerchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\customerchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\lakers_suck\\customerchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\customerchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\repositories\\etailerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\repositories\\etailerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\repositories\\customercartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\repositories\\customercartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\lakers_suck\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\shipmentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\shipmentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\lakers_suck\\shipmentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\shipmentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|c:\\users\\omart\\downloads\\lakers_suck\\lakers_suck\\repositories\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F89498-016F-49A5-A07E-1D044BEE548E}|LAKERS_SUCK\\LAKERS_SUCK.csproj|solutionrelative:lakers_suck\\repositories\\shipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omart\\AppData\\Local\\Temp\\mgpkqfj5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManufacturerMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ManufacturerMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\ManufacturerMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ManufacturerMenu.cs [Design]",
+              "RelativeToolTip": "LAKERS_SUCK\\ManufacturerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:17:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerChoice.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\CustomerChoice.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\CustomerChoice.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\CustomerChoice.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\CustomerChoice.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAkwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:16:30.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerChoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\CustomerChoice.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\CustomerChoice.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\CustomerChoice.cs [Design]",
+              "RelativeToolTip": "LAKERS_SUCK\\CustomerChoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:16:25.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EtailerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\EtailerRepo.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\Repositories\\EtailerRepo.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\EtailerRepo.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\Repositories\\EtailerRepo.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:12:55.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerCartRepo.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\CustomerCartRepo.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\Repositories\\CustomerCartRepo.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\CustomerCartRepo.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\Repositories\\CustomerCartRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:10:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\adminMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\adminMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\adminMenu.cs [Design]",
+              "RelativeToolTip": "LAKERS_SUCK\\adminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:12:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersMenu.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\OrdersMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\OrdersMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\OrdersMenu.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\OrdersMenu.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwGoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:04:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\OrdersMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\OrdersMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\OrdersMenu.cs [Design]",
+              "RelativeToolTip": "LAKERS_SUCK\\OrdersMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:04:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mgpkqfj5..sql",
+              "DocumentMoniker": "C:\\Users\\omart\\AppData\\Local\\Temp\\mgpkqfj5..sql",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\mgpkqfj5..sql",
+              "ToolTip": "C:\\Users\\omart\\AppData\\Local\\Temp\\mgpkqfj5..sql",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\mgpkqfj5..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-07T13:57:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\ShipmentRepository.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\Repositories\\ShipmentRepository.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\Repositories\\ShipmentRepository.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\Repositories\\ShipmentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:52:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipmentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ShipmentMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\ShipmentMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ShipmentMenu.cs",
+              "RelativeToolTip": "LAKERS_SUCK\\ShipmentMenu.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAIAwwKYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:47:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShipmentMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ShipmentMenu.cs",
+              "RelativeDocumentMoniker": "LAKERS_SUCK\\ShipmentMenu.cs",
+              "ToolTip": "C:\\Users\\omart\\Downloads\\LAKERS_SUCK\\LAKERS_SUCK\\ShipmentMenu.cs [Design]",
+              "RelativeToolTip": "LAKERS_SUCK\\ShipmentMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:06:31.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

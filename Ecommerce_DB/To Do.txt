@@ -1,0 +1,65 @@
+To do
+1- Make all full screens
+2- Add back button to all
+3- Adjust all buttons
+4- adjust all tables
+5- Make all min sizes same
+6- add password to schema
+7- cart?
+
+1-Keep users tracked || Give ability to purchase a product from a category
+2-Keep admins tracked
+
+
+
+
+
+private int selectedRowIndex = -1; // Store the last clicked row
+
+private void productsTable_CellPainting(object sender, DataGridViewCellPaintingEventArgs e)
+{
+    if (e.RowIndex >= 0 && e.ColumnIndex == 0) // Target only first column
+    {
+        e.PaintBackground(e.CellBounds, true); // Keep default cell background
+
+        // Define checkbox dimensions
+        int boxSize = 14;
+        Rectangle checkboxRect = new Rectangle(
+            e.CellBounds.X + (e.CellBounds.Width - boxSize) / 2,
+            e.CellBounds.Y + (e.CellBounds.Height - boxSize) / 2,
+            boxSize, boxSize
+        );
+
+        using (Pen borderPen = new Pen(Color.FromArgb(139, 69, 19), 2)) // Border thickness & color
+        {
+            e.Graphics.DrawRectangle(borderPen, checkboxRect); // Draw checkbox border
+        }
+
+        // Fill the checkbox with the background color (247, 238, 221)
+        using (Brush bgBrush = new SolidBrush(Color.FromArgb(247, 238, 221)))
+        {
+            e.Graphics.FillRectangle(bgBrush, checkboxRect);
+        }
+
+        // Check if the row is selected, then overlay the checkbox with another color
+        if (e.RowIndex == selectedRowIndex)
+        {
+            using (Brush fillBrush = new SolidBrush(Color.FromArgb(139, 69, 19))) // Filled color
+            {
+                e.Graphics.FillRectangle(fillBrush, checkboxRect);
+            }
+        }
+
+        e.Handled = true; // Prevent default checkbox rendering
+    }
+}
+
+
+private void productsTable_CellClick(object sender, DataGridViewCellEventArgs e)
+{
+    if (e.RowIndex >= 0) // Ensure a valid row is clicked
+    {
+        selectedRowIndex = e.RowIndex; // Track the clicked row
+        productsTable.Invalidate(); // Refresh to update visuals
+    }
+}

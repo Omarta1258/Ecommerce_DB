@@ -1,0 +1,413 @@
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.exe
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.deps.json
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.runtimeconfig.json
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.AssemblyReference.cache
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.CustomerChoice.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EmployeeChoice.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.WelcomePage.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.GenerateResource.cache
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfoInputs.cache
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfo.cs
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.CoreCompileInputs.cache
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_S.5FC383C7.Up2Date
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\refint\LAKERS_SUCK.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.genruntimeconfig.cache
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\ref\LAKERS_SUCK.dll
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddressMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EtailerMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ManufacturerMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.OrdersMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.PaymentMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ProductsMenu.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddAddress.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEmployee.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddProduct.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddCustomer.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddOrder.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEtailer.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddManufacturer.resources
+C:\Users\omart\source\repos\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddPayment.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.exe
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.deps.json
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.runtimeconfig.json
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddAddress.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddCustomer.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEmployee.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEtailer.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddManufacturer.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddOrder.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddPayment.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddProduct.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddressMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.CustomerChoice.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EmployeeChoice.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EtailerMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ManufacturerMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.OrdersMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.PaymentMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ProductsMenu.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.WelcomePage.resources
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_S.5FC383C7.Up2Date
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\refint\LAKERS_SUCK.dll
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\WWWW\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\ref\LAKERS_SUCK.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.AssemblyReference.cache
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.exe
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.deps.json
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.runtimeconfig.json
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddAddress.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddCustomer.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEmployee.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEtailer.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddManufacturer.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddOrder.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddPayment.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddProduct.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddressMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.CustomerChoice.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EmployeeChoice.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EtailerMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ManufacturerMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.OrdersMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.PaymentMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ProductsMenu.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.Properties.Resources.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.WelcomePage.resources
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.GenerateResource.cache
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfoInputs.cache
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfo.cs
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.CoreCompileInputs.cache
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_S.5FC383C7.Up2Date
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\refint\LAKERS_SUCK.dll
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.genruntimeconfig.cache
+C:\Users\omart\Desktop\Version 0.6\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\ref\LAKERS_SUCK.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.exe
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.deps.json
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.runtimeconfig.json
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.AssemblyReference.cache
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK..resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddAddress.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddCustomer.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEmployee.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEtailer.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddManufacturer.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddOrder.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddPayment.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddProduct.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddressMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.adminMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.CustomerChoice.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EmployeeChoice.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EtailerMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.loginForm.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.mainForm.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ManufacturerMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.OrdersMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.PaymentMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ProductsMenu.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.Properties.Resources.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.registerForm.resources
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.GenerateResource.cache
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfoInputs.cache
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfo.cs
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.CoreCompileInputs.cache
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_S.5FC383C7.Up2Date
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\refint\LAKERS_SUCK.dll
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.genruntimeconfig.cache
+C:\Users\Zeyad\ALL PROJECTS\VStudio\Version 0.8\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\ref\LAKERS_SUCK.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.exe
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.deps.json
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.runtimeconfig.json
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.AssemblyReference.cache
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK..resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddAddress.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddCustomer.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEmployee.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddEtailer.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddManufacturer.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddOrder.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddPayment.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddProduct.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddressMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.adminMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.CustomerChoice.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EmployeeChoice.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.EtailerMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.loginForm.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.mainForm.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ManufacturerMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.OrdersMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.PaymentMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ProductsMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.Properties.Resources.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.registerForm.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.GenerateResource.cache
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfoInputs.cache
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AssemblyInfo.cs
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.csproj.CoreCompileInputs.cache
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_S.5FC383C7.Up2Date
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\refint\LAKERS_SUCK.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.pdb
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.genruntimeconfig.cache
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\ref\LAKERS_SUCK.dll
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.ShipmentMenu.resources
+C:\Users\omart\Downloads\LAKERS_SUCK\LAKERS_SUCK\obj\Debug\net8.0-windows\LAKERS_SUCK.AddShipment.resources
