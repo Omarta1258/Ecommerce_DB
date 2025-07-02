@@ -1,0 +1,47 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.log
+
+# VS Code workspace
+.vscode/
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# Other
+*.dbmdl
+*.bak
+*.zip
+*.rar
+*.pdb
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Auto-generated files
+Generated_Code/
+
+# Publish
+*.publish.xml
+*.pubxml
+*.publishproj
+
+# Recycle bin of file system
+$RECYCLE.BIN/
